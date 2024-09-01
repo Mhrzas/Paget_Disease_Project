@@ -11,6 +11,9 @@ In my recent project focusing on Paget's disease for bone fracture detection, I 
 ResNet Models
 ![ResNet Models](https://github.com/user-attachments/assets/170c24f5-cce0-4d59-a95a-3d13c974944c)
 
+ # Models Accuracy & Loss
+![Uploading IOU (1).jpg…]()
+
 
 
 
