@@ -9,7 +9,6 @@ In my recent project focusing on Paget's disease for bone fracture detection, I 
 
 # Models Performance After Machine Training
 ResNet Models
-![download (5)](https://github.com/user-attachments/assets/d06fe7f1-8243-40c3-b4f2-0a5b82bab1ce)
 ![download (4)](https://github.com/user-attachments/assets/170c24f5-cce0-4d59-a95a-3d13c974944c)
 
 
