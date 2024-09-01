@@ -10,7 +10,7 @@ In my recent project focusing on Paget's disease for bone fracture detection, I 
  # U-net Architecture 
 ![Picture1](https://github.com/user-attachments/assets/9e5522e3-2126-4d16-a94b-24a473898511)
 
- # Models Performance After Machine Training
+ # Models Performance 
 ResNet Models
 ![ResNet Models](https://github.com/user-attachments/assets/170c24f5-cce0-4d59-a95a-3d13c974944c)
 ![download](https://github.com/user-attachments/assets/83f9770c-ef18-47f9-826f-1a1b97582042)
